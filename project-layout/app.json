@@ -1,0 +1,23 @@
+{
+    "Comment": "",
+    "Name": "App Name",
+    "Description": "Configuration for the ??? service.",
+    "BasicAuthRealm": "???",
+    "AllowCORS": true,
+    "Server": {
+      "Bind": "",
+      "Port": 8080
+    },
+    "Db": {
+      "User": "???",
+      "Password": "???",
+      "Host": "???",
+      "Port": 3306,
+      "Database": "???"
+    },
+    "Logging": {
+      "Filename": "./???.log",
+      "Level": "DEBUG"
+    },
+    "Indent": true
+  }
